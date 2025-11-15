@@ -66,5 +66,8 @@ void loop() {
 * You can use any digital pin by updating the code accordingly.
 
 ---
+## follow this circuit diagram .
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/b90a6e59-01cc-453b-a354-2933b39982ff" />
+
 
 If you want an **image circuit diagram inserted**, **PDF version**, or **multi‑LED version**, just ask! at dev@habibsehani.com
